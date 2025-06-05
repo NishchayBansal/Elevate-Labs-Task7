@@ -9,6 +9,7 @@
 **Deliverables:** List of suspicious extensions found and removed (if any)
 
 **1. Opened our browser’s extension/add-ons manager.**
+
  You may find this option on the top-right corner of your chrome brower (Just beside the gmail option)
  
 ![image](https://github.com/user-attachments/assets/c31bbed0-4549-497c-8a8e-a9e5f611ee70)
@@ -29,16 +30,19 @@ c) Manage your Downloads.
 d) Communicate with cooperating native applications.
 
 **To get the reviews for each extension, we visited “Chrome Web Store”:** 
+
 ![image](https://github.com/user-attachments/assets/6b30eabc-8368-4738-8625-a551f44c676c)
 
 **4. Identify any unused or suspicious extensions.**
 
 Idenitified SHAZAM EXTENSION as suspicious of data leakage.
+
 ![image](https://github.com/user-attachments/assets/9b30a7db-a698-4f7f-8099-7ca3f2145a7d)
 
 **5. Remove suspicious or unnecessary extensions.**
 
 Removed this Suspicious Extension:
+
 ![image](https://github.com/user-attachments/assets/f348d489-1dce-4211-be51-81812af1b7a7)
 
 ![image](https://github.com/user-attachments/assets/baeea37b-5ebd-4925-9348-5244f6eb4592)
@@ -46,6 +50,7 @@ Removed this Suspicious Extension:
 **6. Restart browser and check for performance improvements.**
 
 After removing a suspicious Chrome extension and restarting the chrome web-browser can lead to noticeable performance improvements, including:
+
 a)	faster website loading times, 
 
 b)	less memory usage, and 
@@ -83,6 +88,7 @@ Malicious extensions can install malware or spyware on the user's device, leadin
 5.	Removed suspicious or unnecessary extensions. (Shazam Extension)
 6.	Restarted browser and check for performance improvements. (faster loading and less memory usage)
 7.	Researched how malicious extensions can harm users.
+
 _Data Theft, Tracking, Keylogging, Phishing, Performance issues, Malware distribution._
 
 
