@@ -19,9 +19,13 @@
 
 **3. Check permissions and reviews for each extension.**
 We got the permissions like:
+
 a) Read and change all your data on all websites.
+
 b) Read your browsing history.
+
 c) Manage your Downloads.
+
 d) Communicate with cooperating native applications.
 
 **To get the reviews for each extension, we visited “Chrome Web Store”:** 
@@ -43,7 +47,9 @@ Removed this Suspicious Extension:
 
 After removing a suspicious Chrome extension and restarting the chrome web-browser can lead to noticeable performance improvements, including:
 a)	faster website loading times, 
+
 b)	less memory usage, and 
+
 c)	a smoother overall browsing experience. 
 
 Malicious extensions can drain resources and slow down the browser, so removing them can significantly enhance your online experience. 
@@ -52,14 +58,19 @@ Malicious extensions can drain resources and slow down the browser, so removing 
 
 o	Data Theft:
 Malicious extensions can access a wide range of user data, including browsing history, login credentials, payment information, and personal details.
+
 o	Tracking and Surveillance:
 Can track user activities, collect information about browsing habits, and even monitor user keystrokes. 
+
 o	Malicious Code Injection:
 Malicious extensions can inject harmful code into websites, potentially modifying the content of web pages, redirecting users to phishing sites, or stealing sensitive information. 
+
 o	Phishing Attacks:
 Malicious extensions can mimic legitimate extensions or inject fake prompts to trick users into revealing their personal information. 
+
 o	Performance Issues:
 Some extensions can consume significant system resources, slowing down the browser and potentially impacting overall system performance. 
+
 o	Installation of Malware/Spyware:
 Malicious extensions can install malware or spyware on the user's device, leading to further security vulnerabilities and privacy breaches. 
 
