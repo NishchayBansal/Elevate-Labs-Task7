@@ -1,6 +1,6 @@
 # Elevate-Labs-Task7
 
-**Task 7 :Identify and Remove Suspicious Browser Extensions**
+**Task 7: Identify and Remove Suspicious Browser Extensions**
 
 **Objective:** Learn to spot and remove potentially harmful browser extensions.
 
@@ -8,9 +8,9 @@
 
 **Deliverables:** List of suspicious extensions found and removed (if any)
 
-**1. Opened our browser’s extension/add-ons manager.**
+**1. Opened our browser’s extension/add-ons manager.** 
 
- You may find this option on the top-right corner of your chrome brower (Just beside the gmail option)
+You may find this option on the top-right corner of your chrome brower (Just beside the gmail option)
  
 ![image](https://github.com/user-attachments/assets/c31bbed0-4549-497c-8a8e-a9e5f611ee70)
 
@@ -19,6 +19,7 @@
 ![image](https://github.com/user-attachments/assets/7531b6da-ff3c-4119-86e6-4e52c5143986)
 
 **3. Check permissions and reviews for each extension.**
+
 We got the permissions like:
 
 a) Read and change all your data on all websites.
@@ -46,6 +47,8 @@ Removed this Suspicious Extension:
 ![image](https://github.com/user-attachments/assets/f348d489-1dce-4211-be51-81812af1b7a7)
 
 ![image](https://github.com/user-attachments/assets/baeea37b-5ebd-4925-9348-5244f6eb4592)
+
+![image](https://github.com/user-attachments/assets/bf36a458-c5c2-48ec-9ce4-4825c6392afe)
 
 **6. Restart browser and check for performance improvements.**
 
